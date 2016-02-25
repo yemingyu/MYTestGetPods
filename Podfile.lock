@@ -1,0 +1,18 @@
+PODS:
+  - JSPatch (0.1.5):
+    - JSPatch/Core (= 0.1.5)
+  - JSPatch/Core (0.1.5)
+  - MYCocoaPodsTestYMY (0.0.1)
+  - MYNewPrivatePod (0.0.1)
+
+DEPENDENCIES:
+  - JSPatch (~> 0.1.3)
+  - MYCocoaPodsTestYMY (= 0.0.1)
+  - MYNewPrivatePod (= 0.0.1)
+
+SPEC CHECKSUMS:
+  JSPatch: 405b5f5990643e6717dd6715ac60d6a2b582a6ba
+  MYCocoaPodsTestYMY: 3532db24a6476c9e57fa18b3944601d54889a589
+  MYNewPrivatePod: 4420c690d02165c61a5b39441ca7883e9a970db5
+
+COCOAPODS: 0.39.0
